@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Pamarthi Sai Narasimham<br><br>🎓 **Computer Science Student** at Shanmugha Arts & Science Research Academy  <br>🔍 **Passionate about:** Web Development, Machine Learning, Networks & Trading  <br>🌱 **Currently exploring:** NLP, OCR, and OS Development  <br>📫 **Reach me:** [Email] | [LinkedIn] | [Instagram]<br><br>💡 *"Dynamic CS student with a proven track record of academic excellence, actively seeking opportunities to develop cutting-edge software solutions"*<br>
+# Hi there! 👋 I'm Pamarthi Sai Narasimham<br><br>🎓 **Computer Science Student** at Shanmugha Arts & Science Research Academy  <br>🔍 **Passionate about:** Web Development, Machine Learning, Networks & Trading  <br>🌱 **Currently exploring:** NLP, OCR, and OS Development  <br>📫 <br><br>💡 *"Dynamic CS student with a proven track record of academic excellence, actively seeking opportunities to develop cutting-edge software solutions"*<br>
 
 
 ## 🌐 Socials:
