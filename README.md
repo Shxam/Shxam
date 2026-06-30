@@ -24,10 +24,10 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Sham — AI/ML Engineer banner" />
+<img src="https://github.com/Shxam/Shxam/blob/bd38e9bff7b6e4c362d895a9290dc0b163c721ac/Banner.SVG" width="100%" alt="Sham — AI/ML Engineer banner" />
 
 <a href="https://github.com/Shxam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Final-Year+CSE+%40+SASTRA+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Student+@+SASTRA+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science Engineering** student at **SASTRA University** (Class of 2026, CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning research papers into working systems — and shipping side projects fast enough that the README can barely keep up.
+I'm a **Computer Science Engineering** student at **SASTRA University** (Class of 2026, CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning research papers into working systems — and shipping side projects fast enough that the README can barely keep up.
 
 - 🔭 **Currently building:** [IPL Dhaba](https://github.com/Shxam) — a cricket-themed restaurant ordering & delivery platform (Next.js 14 + Supabase + Razorpay)
 - 🧪 **Past roles:** NLP Research Intern @ SASTRA · Software QA Engineer @ Dream2Code
