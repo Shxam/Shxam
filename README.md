@@ -111,20 +111,7 @@ Hybrid RAG agent combining BM25 + RRF fusion + cross-encoder reranking. **Ranked
 
 `RAG` `BM25` `Cross-Encoder`
 
-</td>
-<td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 KhetIQ.AI
-AI-powered agricultural marketplace for Indian farmers, with vector-search-driven recommendations.
-
-`Next.js` `Supabase` `Groq` `pgvector`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🌿 Rice Leaf Disease Detection
