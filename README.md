@@ -56,7 +56,7 @@ I'm a final-year **Computer Science Engineering** student at **SASTRA University
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=faiss&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
 **Web & Backend**
