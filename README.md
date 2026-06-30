@@ -102,23 +102,6 @@ Hybrid RAG agent combining BM25 + RRF fusion + cross-encoder reranking. **Ranked
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Auctor MCP Server
-A TypeScript Model Context Protocol server exposing 24 tools for AI agent workflows.
-
-`TypeScript` `MCP` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 KhetIQ.AI
-AI-powered agricultural marketplace for Indian farmers, with vector-search-driven recommendations.
-
-`Next.js` `Supabase` `Groq` `pgvector`
-
-</td>
-<td width="50%" valign="top">
 
 ### 🌿 Rice Leaf Disease Detection
 Vision Transformer classifier paired with explainability tooling — Attention Rollout, Grad-CAM++, LIME.
@@ -136,10 +119,9 @@ Vision Transformer classifier paired with explainability tooling — Attention R
 | Event | Result |
 |---|---|
 | HackerRank Orchestrate (May 2026) | 🥈 Ranked **212th globally** |
-| TigerGraph Hackathon | 🏆 Round winner — *PostMortemIQ* |
+| TigerGraph Hackathon | *PostMortemIQ* |
 | Kaggle — ARC-AGI-3 | Hybrid agent, local LLM inference |
-| Kaggle — Maze Crawler / Orbit Wars | Iteratively tuned RL agents |
-| College Hackathon | Built **PlaceIQ** — a placement-cell operator concept |
+| Kaggle — Maze Crawler  | Iteratively tuned RL agents |
 
 <br/>
 
