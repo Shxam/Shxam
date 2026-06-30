@@ -16,7 +16,7 @@
 <img src="https://github.com/Shxam/Shxam/blob/56d5f9d27f63c0a4f3ea2f57a865a6a305568646/Banner.SVG" width="100%" alt="Sham — AI/ML Engineer banner" />
 
 <a href="https://github.com/Shxam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Final-Year+CSE+%40+SASTRA+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C[...]
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science Engineering** student at **SASTRA University** (Class of 2026, CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning research papers into working systems — and shipping side projects fast enough that the README can barely keep up.
+I'm a **Computer Science Engineering** fresher from **SASTRA University** (CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning r[...]
 
 - 🔭 **Currently building:** [IPL Dhaba](https://github.com/Shxam) — a cricket-themed restaurant ordering & delivery platform (Next.js 14 + Supabase + Razorpay)
 - 🧪 **Past roles:** NLP Research Intern @ SASTRA · Software QA Engineer @ Dream2Code
@@ -129,7 +129,7 @@ Vision Transformer classifier paired with explainability tooling — Attention R
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shxam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&icon_color=2DD4BF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shxam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&icon_color=2DD4BF&text_color=C9D1D9" width="49%[...]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shxam&theme=tokyonight&hide_border=true&background=0D1117&ring=F2A65A&fire=F2A65A&currStreakLabel=2DD4BF" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shxam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&text_color=C9D1D9" width="49%" />
