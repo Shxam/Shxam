@@ -13,7 +13,7 @@
 <div align="center">
 
 
-<img src="https://github.com/Shxam/Shxam/blob/2430591d1a7248fa45115960207dd3f0155c56da/Banner.SVG" width="100%" alt="Sham — AI/ML Engineer banner" />
+<img src="https://github.com/Shxam/Shxam/blob/56d5f9d27f63c0a4f3ea2f57a865a6a305568646/Banner.SVG" width="100%" alt="Sham — AI/ML Engineer banner" />
 
 <a href="https://github.com/Shxam">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Final-Year+CSE+%40+SASTRA+University" alt="Typing SVG" />
