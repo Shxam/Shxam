@@ -47,7 +47,7 @@ I'm a **Computer Science Engineering** student at **SASTRA University** (Class o
 - 🔭 **Currently building:** [IPL Dhaba](https://github.com/Shxam) — a cricket-themed restaurant ordering & delivery platform (Next.js 14 + Supabase + Razorpay)
 - 🧪 **Past roles:** NLP Research Intern @ SASTRA · Software QA Engineer @ Dream2Code
 - 🏆 **Ranked 212th globally** in HackerRank Orchestrate (May 2026) with a hybrid RAG triage agent
-- 🎥 Run a YouTube channel with **2,700+ subscribers** documenting my build-in-public journey
+- 🎥 Run a YouTube channel with **2,600+ subscribers** documenting my build-in-public journey
 - 🌱 **Exploring right now:** agentic frameworks — LangGraph, CrewAI, Pydantic AI
 - 💬 **Ask me about:** RAG pipelines, GraphRAG, or why a cricket food-ordering app needs race-condition handling
 - 📍 Based in Ongole, India
