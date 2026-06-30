@@ -57,6 +57,7 @@ I'm a final-year **Computer Science Engineering** student at **SASTRA University
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" alt="FAISS" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
+
 **Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind" />
