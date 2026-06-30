@@ -10,20 +10,31 @@
           are inside the collapsible section near the bottom)
      ============================================================ -->
 
+<!-- ============================================================
+     SHAM's GitHub Profile README
+     ------------------------------------------------------------
+     Before you push this to github.com/Shxam/Shxam, customize:
+       1. Keep assets/banner.svg in the same repo (path used below)
+       2. Replace YOUR_LINKEDIN / YOUR_EMAIL / YOUR_TWITTER /
+          YOUR_PORTFOLIO / YOUR_YOUTUBE_HANDLE with your real links
+       3. Swap the placeholder project links with your real repo URLs
+       4. Optional: add the snake-animation workflow (instructions
+          are inside the collapsible section near the bottom)
+     ============================================================ -->
+
 <div align="center">
 
-
-<img src="https://github.com/Shxam/Shxam/blob/56d5f9d27f63c0a4f3ea2f57a865a6a305568646/Banner.SVG" width="100%" alt="Sham — AI/ML Engineer banner" />
+<img src="./assets/banner.svg" width="100%" alt="Sham — AI/ML Engineer banner" />
 
 <a href="https://github.com/Shxam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Final-Year+CSE+%40+SASTRA+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shxam&color=f2a65a&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Shxam?label=Followers&style=flat-square&color=2dd4bf)
-[![YouTube](https://img.shields.io/badge/YouTube-2.7K%2B%20Subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE)
+<img src="https://komarev.com/ghpvc/?username=Shxam&color=f2a65a&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Shxam?label=Followers&style=flat-square&color=2dd4bf" alt="Followers" />
+<a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-2.7K%2B%20Subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 </div>
 
@@ -31,7 +42,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering** fresher from **SASTRA University** (CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning r[...]
+I'm a final-year **Computer Science Engineering** student at **SASTRA University** (Class of 2026, CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning research papers into working systems — and shipping side projects fast enough that the README can barely keep up.
 
 - 🔭 **Currently building:** [IPL Dhaba](https://github.com/Shxam) — a cricket-themed restaurant ordering & delivery platform (Next.js 14 + Supabase + Razorpay)
 - 🧪 **Past roles:** NLP Research Intern @ SASTRA · Software QA Engineer @ Dream2Code
@@ -54,6 +65,7 @@ I'm a **Computer Science Engineering** fresher from **SASTRA University** (CGPA 
 **AI / ML / Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" alt="FAISS" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
@@ -102,6 +114,23 @@ Hybrid RAG agent combining BM25 + RRF fusion + cross-encoder reranking. **Ranked
 </td>
 <td width="50%" valign="top">
 
+### 🛠️ Auctor MCP Server
+A TypeScript Model Context Protocol server exposing 24 tools for AI agent workflows.
+
+`TypeScript` `MCP` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 KhetIQ.AI
+AI-powered agricultural marketplace for Indian farmers, with vector-search-driven recommendations.
+
+`Next.js` `Supabase` `Groq` `pgvector`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌿 Rice Leaf Disease Detection
 Vision Transformer classifier paired with explainability tooling — Attention Rollout, Grad-CAM++, LIME.
@@ -119,9 +148,10 @@ Vision Transformer classifier paired with explainability tooling — Attention R
 | Event | Result |
 |---|---|
 | HackerRank Orchestrate (May 2026) | 🥈 Ranked **212th globally** |
-| TigerGraph Hackathon | *PostMortemIQ* |
+| TigerGraph Hackathon | 🏆 Round winner — *PostMortemIQ* |
 | Kaggle — ARC-AGI-3 | Hybrid agent, local LLM inference |
-| Kaggle — Maze Crawler  | Iteratively tuned RL agents |
+| Kaggle — Maze Crawler / Orbit Wars | Iteratively tuned RL agents |
+| College Hackathon | Built **PlaceIQ** — a placement-cell operator concept |
 
 <br/>
 
@@ -129,7 +159,7 @@ Vision Transformer classifier paired with explainability tooling — Attention R
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shxam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&icon_color=2DD4BF&text_color=C9D1D9" width="49%[...]
+<img src="https://github-readme-stats.vercel.app/api?username=Shxam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&icon_color=2DD4BF&text_color=C9D1D9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shxam&theme=tokyonight&hide_border=true&background=0D1117&ring=F2A65A&fire=F2A65A&currStreakLabel=2DD4BF" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shxam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&text_color=C9D1D9" width="49%" />
@@ -184,11 +214,11 @@ Then drop this in the README wherever you'd like the snake to appear:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://YOUR_PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -199,3 +229,4 @@ Then drop this in the README wherever you'd like the snake to appear:
 <sub>Built with curiosity, a lot of coffee, and one too many cricket matches in the background 🏏</sub>
 
 </div>
+
