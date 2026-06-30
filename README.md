@@ -34,7 +34,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shxam&color=f2a65a&style=flat-square&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Shxam?label=Followers&style=flat-square&color=2dd4bf" alt="Followers" />
-<a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-2.7K%2B%20Subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://youtube.com/@sxt-777"><img src="https://img.shields.io/badge/YouTube-2.7K%2B%20Subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 </div>
 
