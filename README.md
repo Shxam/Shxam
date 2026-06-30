@@ -1,36 +1,219 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Pamarthi Sai Narasimham<br><br>🎓 **Computer Science Student** at Shanmugha Arts & Science Research Academy  <br>🔍 **Passionate about:** Web Development, Machine Learning, Networks & Trading  <br>🌱 **Currently exploring:** NLP, CN, and OS Development  <br> <br><br>💡 *"Dynamic CS student with a proven track record of academic excellence, actively seeking opportunities to develop cutting-edge software solutions"*<br>
+<!-- ============================================================
+     SHAM's GitHub Profile README
+     ------------------------------------------------------------
+     Before you push this to github.com/Shxam/Shxam, customize:
+       1. Keep assets/banner.svg in the same repo (path used below)
+       2. Replace YOUR_LINKEDIN / YOUR_EMAIL / YOUR_TWITTER /
+          YOUR_PORTFOLIO / YOUR_YOUTUBE_HANDLE with your real links
+       3. Swap the placeholder project links with your real repo URLs
+       4. Optional: add the snake-animation workflow (instructions
+          are inside the collapsible section near the bottom)
+     ============================================================ -->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ft.sham/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-narasimham-pamarthi-3bb0052a8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@226003167) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6x8GBXRp4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/No_Management4662/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pamathisreenivasulu24@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shxam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<img src="./assets/banner.svg" width="100%" alt="Sham — AI/ML Engineer banner" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shxam&theme=tokyonight&hide_border=false)
+<a href="https://github.com/Shxam">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;NLP+%7C+RAG+%7C+Vision+Transformers;Building+IPL+Dhaba+%F0%9F%8F%8F;Final-Year+CSE+%40+SASTRA+University" alt="Typing SVG" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shxam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shxam&color=f2a65a&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Shxam?label=Followers&style=flat-square&color=2dd4bf)
+[![YouTube](https://img.shields.io/badge/YouTube-2.7K%2B%20Subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE)
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shxam&theme=tokyo-night&hide_border=true)
+## 👋 About Me
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shxam&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+I'm a final-year **Computer Science Engineering** student at **SASTRA University** (Class of 2026, CGPA 8.2), currently looking for my first full-time role as an **ML / AI Engineer**. I like turning research papers into working systems — and shipping side projects fast enough that the README can barely keep up.
 
+- 🔭 **Currently building:** [IPL Dhaba](https://github.com/Shxam) — a cricket-themed restaurant ordering & delivery platform (Next.js 14 + Supabase + Razorpay)
+- 🧪 **Past roles:** NLP Research Intern @ SASTRA · Software QA Engineer @ Dream2Code
+- 🏆 **Ranked 212th globally** in HackerRank Orchestrate (May 2026) with a hybrid RAG triage agent
+- 🎥 Run a YouTube channel with **2,700+ subscribers** documenting my build-in-public journey
+- 🌱 **Exploring right now:** agentic frameworks — LangGraph, CrewAI, Pydantic AI
+- 💬 **Ask me about:** RAG pipelines, GraphRAG, or why a cricket food-ordering app needs race-condition handling
+- 📍 Based in Ongole, India
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shxam&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧰 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts" />
+
+**AI / ML / Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind" />
+
+**Cloud, Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,postgres,supabase,git,figma" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 IPL Dhaba
+Cricket-themed restaurant ordering & delivery platform. Shipped a full security audit (30 findings resolved) plus a 13-phase implementation plan.
+
+`Next.js 14` `Supabase` `Razorpay` `Mapbox`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 PostMortemIQ
+GraphRAG-powered incident root-cause-analysis system — round-winning entry in a TigerGraph hackathon.
+
+`TigerGraph` `GraphRAG` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Multi-Domain Support Triage Agent
+Hybrid RAG agent combining BM25 + RRF fusion + cross-encoder reranking. **Ranked 212th globally**, HackerRank Orchestrate.
+
+`RAG` `BM25` `Cross-Encoder`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Auctor MCP Server
+A TypeScript Model Context Protocol server exposing 24 tools for AI agent workflows.
+
+`TypeScript` `MCP` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 KhetIQ.AI
+AI-powered agricultural marketplace for Indian farmers, with vector-search-driven recommendations.
+
+`Next.js` `Supabase` `Groq` `pgvector`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Rice Leaf Disease Detection
+Vision Transformer classifier paired with explainability tooling — Attention Rollout, Grad-CAM++, LIME.
+
+`ViT` `XAI` `PyTorch`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Competitions & Hackathons
+
+| Event | Result |
+|---|---|
+| HackerRank Orchestrate (May 2026) | 🥈 Ranked **212th globally** |
+| TigerGraph Hackathon | 🏆 Round winner — *PostMortemIQ* |
+| Kaggle — ARC-AGI-3 | Hybrid agent, local LLM inference |
+| Kaggle — Maze Crawler / Orbit Wars | Iteratively tuned RL agents |
+| College Hackathon | Built **PlaceIQ** — a placement-cell operator concept |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shxam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&icon_color=2DD4BF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shxam&theme=tokyonight&hide_border=true&background=0D1117&ring=F2A65A&fire=F2A65A&currStreakLabel=2DD4BF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shxam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A65A&text_color=C9D1D9" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shxam&theme=tokyonight&no-frame=true&margin-w=8&row=2" width="49%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shxam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F2A65A&line=2DD4BF&point=FFFFFF" width="100%" />
+</div>
+
+<details>
+<summary>🐍 Add a contribution-snake animation too</summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in this repo with:
+
+```yaml
+name: snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shxam
+          outputs: dist/snake.svg
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -f dist/snake.svg
+          git commit -m "chore: update snake animation" || true
+          git push
+```
+
+Then drop this in the README wherever you'd like the snake to appear:
+
+```markdown
+![snake](./dist/snake.svg)
+```
+</details>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" width="100%"/>
+
+<sub>Built with curiosity, a lot of coffee, and one too many cricket matches in the background 🏏</sub>
+
+</div>
